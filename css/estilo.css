@@ -1,0 +1,64 @@
+body {
+	font-family: Cambria;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+input:focus {
+	background-color: orange;
+}
+
+.acessar:hover {
+	background-color: blue;
+	font-weight: bold;
+}
+
+#uol:hover {
+	border: dotted;
+	background-color: rgb(170, 197, 169);
+	text-decoration: underline;
+
+}
+
+#whats:active {
+	color: green;
+	font-size: 18px;
+	border: solid purple;
+
+}
+
+#terra:focus {
+	background: grey;
+	border: solid thin yellow;
+}
+
+#github:visited {
+	color: white;
+}
+
+#spotify:focus {
+  background-color: orange;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(116, 109, 218);
+	font-weight: bold;
+
+}
+
+ul li {
+	display: inline;
+	margin-left: 20px;
+}
+
+ul {
+	background-color: rgb(237, 167, 194);
+	height: 20px;
+}
